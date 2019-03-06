@@ -13,5 +13,3 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 
 
 export const angularJSApp = angular.module('app');
-
-

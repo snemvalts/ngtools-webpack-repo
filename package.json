@@ -19,7 +19,7 @@
     "@angular/router": "7.2.4",
     "@ngtools/webpack": "^7.3.4",
     "@types/angular": "1.5.8",
-    "angular": "^1.6.54",
+    "angular": "^1.5.8",
     "core-js": "^2.5.4",
     "css-loader": "^2.1.0",
     "less": "^3.9.0",
